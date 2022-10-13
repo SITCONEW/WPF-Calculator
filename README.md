@@ -1,6 +1,8 @@
 # WPF-Calculator
-Calculadora em C# criado com WPF, minha primeira aplicação pratica com WPF!
+Calculadora en C# creada con WPF. Prueba Realizada por SITCO
 
+Crea las dos funciones faltantes de la calculadora.
+Exitos...
 <p align="center">
   <img src="WPF-Calculator/Assets/print.png"/>
 </p>
